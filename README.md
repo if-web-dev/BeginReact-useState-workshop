@@ -1,6 +1,6 @@
 # Image Elevator
 
-**Image Elevator** is a simple and interactive React project designed to help learners practice the `useState` hook as part of the **BeginReact** course by Melvyn. This project demonstrates the basics of managing and manipulating state in a React application while providing a fun and functional image customization tool.
+**Image Elevator** is a simple and interactive React project designed to help learners practice the `useState` hook as part of the **BeginReact** course by [Melvyn](https://mlv.sh/). This project demonstrates the basics of managing and manipulating state in a React application while providing a fun and functional image customization tool.
 
 ## Project Overview
 
@@ -38,16 +38,18 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/image-elevator.git
-cd image-elevator
+   git clone https://https://github.com/if-web-dev/BeginReact-useState-workshop
+   cd beginreact-usestate-workshop
 ```
 
 2. Install dependencies
-    ```npm install
-    ```
+```bash
+   npm install
+```
 
 3. Start the development server:
-```npm run dev
+```bash
+   npm run dev
 ```
 
 4. Open the app in your browser at http://localhost:3000
@@ -67,14 +69,17 @@ Here’s an overview of the key files and folders:
 ## Scripts
 
 1. Start the development server.
-```npm run dev
+```bash
+   npm run dev
 ```
 
-Build the project for production.
-```npm run build
+2. Build the project for production.
+```bash
+   npm run build
 ```
-Serve the built project in production mode.
-```npm start
+3. Serve the built project in production mode.
+```bash
+   npm start
 ```
 
 ## Purpose of This Workshop
@@ -83,4 +88,4 @@ This project is part of the BeginReact course by Melvyn, focused on React fundam
 
 ## About Melvyn
 
-This project is part of the BeginReact course created by Melvyn, a developer and instructor passionate about teaching React and JavaScript in an interactive and beginner-friendly way.
+This project is part of the [BeginReact](https://codelynx.dev/beginreact) course created by [Melvyn](https://mlv.sh/), a developer and instructor passionate about teaching React and JavaScript in an interactive and beginner-friendly way.
