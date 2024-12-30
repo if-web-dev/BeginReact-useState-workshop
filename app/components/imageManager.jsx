@@ -1,7 +1,7 @@
 "use client";
 
 import { ImageGenerator } from "./ImageGenerator.jsx";
-import { renderPNG } from "../render-png.js";
+import { renderPNG } from "../utils/render-png.js";
 
 export default function Upload({ image, settings }) {
   const downloadImage = async () => {
