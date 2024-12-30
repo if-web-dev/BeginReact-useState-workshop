@@ -1,6 +1,6 @@
 "use client";
 
-import Settings from "../settings.jsx";
+import Settings from "./settings.jsx";
 import ImageManager from "./imageManager.jsx";
 import { useState } from "react";
 

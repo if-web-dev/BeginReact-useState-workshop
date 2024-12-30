@@ -1,6 +1,6 @@
 "use client"
 
-import Input from "./components/input.jsx";
+import Input from "./input.jsx";
 
 export default function Settings({ settings, setSetting, handleFileChange }) {
   return (
